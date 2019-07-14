@@ -1,228 +1,60 @@
-# Aprova.mais
-<!doctype html>
-<html lang="pt-br">
+# [Start Bootstrap - Business Frontpage](https://startbootstrap.com/template-overviews/business-frontpage/)
 
-<head>
+[Business Frontpage](http://startbootstrap.com/template-overviews/business-frontpage/) is a basic business website template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-  <!-- Meta tags -->
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="author" content="Gustavo Zago">
-  <meta name="description" content="">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <a href="https://icons8.com/icon/43999/e-mail"></a>
+## Preview
 
-  <!-- Fonts -->
-  <link href="fonts/saira-extra-condensed.css" rel="stylesheet">
-  <link href="fonts/muli.css" rel="stylesheet">
+[![Business Frontpage Preview](https://startbootstrap.com/assets/img/templates/business-frontpage.jpg)](https://blackrockdigital.github.io/startbootstrap-business-frontpage/)
 
-  <!-- CSS -->
-  <link href="css/bootstrap.min.css" rel="stylesheet">
-  <link href="css/all.min.css" rel="stylesheet">
-  <link href="css/devicon.min.css" rel="stylesheet">
-  <link href="css/resume.css" rel="stylesheet">
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-business-frontpage/)**
 
-  <!-- Title -->
- 
-  <title>Aprova Mais</title>
-  
-</head>
+## Status
 
-<body id="page-top">
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-business-frontpage/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-business-frontpage.svg)](https://www.npmjs.com/package/startbootstrap-business-frontpage)
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-business-frontpage.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-business-frontpage)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-business-frontpage/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-business-frontpage)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-business-frontpage/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-business-frontpage?type=dev)
 
-           <!--=================
-                  menu
-            ===================-->
-                
+## Download and Installation
 
-                <nav class="navbar navbar-expand-lg navbar-dark btn-dark fixed-top"style=" background-color: #000;"  >
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/business-frontpage/)
+* Install via npm: `npm i startbootstrap-business-frontpage`
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-business-frontpage.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-business-frontpage)
 
-                    <div class="container">
+## Usage
 
-                        <img src="fotos/Imagem2.png" width=55px style="padding-right: 10px;"href="#sobre">
-                        <a class="navbar-brand scroll" id="menu" href="#sobre">Aprova Mais</a>
+### Basic Usage
 
-                        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-                            <span class="navbar-toggler-icon"></span>
+### Advanced Usage
 
-                        </button>
+After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
-                        <div class="collapse navbar-collapse" id="navbarResponsive">
+You must have npm and Gulp installed globally on your machine in order to use these features.
 
-                            <ul class="nav navbar-nav ml-auto">
+## Bugs and Issues
 
- 
-                                <li >
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-business-frontpage/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/business-frontpage/).
 
-                                    <a class="nav-link scroll" href="#Inicio">Inicio</a>
+## About
 
-                                </li>
+Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-                              
-                                <li class="nav-item">
+* https://startbootstrap.com
+* https://twitter.com/SBootstrap
 
-                                    <a class="nav-link scroll" href="#sobre">Sobre</a>
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
-                                </li>
-                                
-                                <li class="nav-item">
+* http://davidmiller.io
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
-                                    <a class="nav-link scroll" href="#projects">Serviços</a>
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-                                </li>
+## Copyright and License
 
-
-                            </ul>
-
-                        </div>
-
-                    </div>
-                </nav>
-
-  
-
-    <!-- About -->
-    <section class="bg-primary py-5 col-mb-12 col-sm-12"  id="Inicio">
-
-              
-    
-          <div class="container h-100">
-            <div class="row h-100 align-items-center">
-              <div class="col-lg-12">
-                <h1 class="display-4 text-black mt-5 col-mb-2 text-center"><img src="fotos/Imagem2.png" width=150px></h1></br>
-                <p class="lead mb-5 text--50" style="color: white;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non possimus ab labore provident mollitia. Id assumenda voluptate earum corporis facere quibusdam quisquam iste ipsa cumque unde nisi, totam quas ipsam.</p>
-              </div>
-            </div>
-          </div>
-      
-         
-    </section>
-<!-- Container -->
-<div class="container-fluid ">
-
-    <hr class="m-0">
-    
-     <!--=================
-                  Serviços
-            ===================-->
-
-                <div id="sobre">
-                    <section class="resume-section p-3 p-lg-5 d-flex flex-column"  >
-
-                        <div class="container row">
-
-                            
-      <div class="col-md-8 col-sm-12">
-          <h3 class="text-center" style="font-family: comic Sans, cursive;">O que fazemos?</h3>
-          <hr>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A deserunt neque tempore recusandae animi soluta quasi? Asperiores rem dolore eaque vel, porro, soluta unde debitis aliquam laboriosam. Repellat explicabo, maiores!</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis optio neque consectetur consequatur magni in nisi, natus beatae quidem quam odit commodi ducimus totam eum, alias, adipisci nesciunt voluptate. Voluptatum.</p>
-         </div>
-
-                       
-
-                        
-       <div class="col-md-4 col-sm-12">
-        <h3 style="font-family: comic Sans, cursive;">Contate-nos</h3>
-        <hr>
-        <address>
-          <strong>Aprova Mais</strong>
-          <br>
-     <a href="https://www.instagram.com/aprova.mais/" target="_blank"> <i style="font-size:24px; color:black;" class="fab fa-instagram"></i></a>
-          @aprova.mais
-          <p title="Phone"><i style="font-size:24px ;color:black;" class="fab fa-whatsapp"></i>
-          Cel:
-          (12) 99217-4449.
-          <p title="Email"><i class="fa fa-envelope" style="font-size:24px ;color:black;" aria-hidden="true"></i>
-            Email:
-          <a href="mailto:#">aprovamaiscon@gmail.com</a></p>
-        </address>
-      </div>
-    </div>
-                    </section>
-
-                </div>
-     
-      <hr class="m-0">
-     <!-----------
-      Portfolio
-     ----------->  
-
-    <section class="resume-section p-3 p-lg-5 d-flex flex-column row" id="projects">
-      <div class="container col-sm-12 col-md-12" >
-        <div class="content-section-heading ">
-         
-          <h3 class="mb-5 text-center" style="font-family: comic Sans, cursive;">Serviços</h3>
-        </div>
-        <div class="row">
-        <div class="col-md-6"> 
-          <div class="col-md-12 col-sm-12 ">
-              <div class="card h-100">
-                  <a class="portfolio-item"  target="_blank">
-                    <span class="caption">
-                      <span class="caption-content">
-                        <h3 class="text-white">Simulado PM-SP</h3>
-                        <p class="mb-0"> </p>
-                       
-                      </span>
-                    </span>
-                    <img class="img-fluid" src="fotos/pm-forma.jpg" alt="">
-                  </a>
-                <div class="card-body">
-                  <h4 class="card-title"></h4>
-                  <p class="card-text text-center">Por apenas <b>R$ 9,90</b> </br> você leva três simulados </br> mais três temas de redações.</p>
-                  <div class="text-center">
-                      <a class="btn btn-primary text-center" href="">Comprar</a>
-                    </div>
-                </div>
-               
-              </div>
-            </div>     
-            </div>  
-            </div> 
-          
-     
-               
-              </div>
-            </div>  
-          </div>
-        </div>
-
-          
-        </div>
-
-   
-      
-      
-  
-
-      
-    </section>
-
-
-
-  </div>
- <!-- Footer -->
-    <footer class="footer text-center" style="background-color: #000;height: 100px;">
-      <div class="container">
-        <div class="social-icons text-center">
-         
-              </div>
-        
-        <p class="m-0 text-center text-white"></br></br>Copyright &copy; Gustavo Zago 2019</p>
-        <div class="text-left">
-       
-      </div>
-      </div>
-    </footer>
-
-  <!-- JavaScript -->
-  <script src="js/jquery-3.3.1.min.js"></script>
-  <script src="js/bootstrap.bundle.min.js"></script>
-  <script src="js/jquery.easing.min.js"></script>
-  <script src="js/resume.js"></script>
-
-</body>
-
-</html>
+Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/gh-pages/LICENSE) license.
